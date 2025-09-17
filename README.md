@@ -13,8 +13,10 @@ especially here in Johannesburg, where I design platforms that connect people an
 ## 🛠️ 💜 Skills & Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Animated coding GIF"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Coding animation"/>
 </p>
+
+<div align="center">
 
 | 🧾 Languages | 📚 Frameworks / Libraries | 🗄️ Databases | 🧰 Tools |
 |-------------|---------------------------|--------------|----------|
@@ -23,6 +25,8 @@ especially here in Johannesburg, where I design platforms that connect people an
 | ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=flat&logo=javascript&logoColor=black) | ![Express.js](https://img.shields.io/badge/Express-%23000000?style=flat&logo=express&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23ffca28?style=flat&logo=firebase&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-%234b8bbe?style=flat&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-%23092e20?style=flat&logo=django&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-%23e10098?style=flat&logo=graphql&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=flat&logo=netlify&logoColor=white) |
 |  | ![HTMX](https://img.shields.io/badge/HTMX-%236a1b9a?style=flat&logo=html5&logoColor=white) |  |  |
+
+</div>
 
 ## 📫  Contact Me
 
