@@ -13,7 +13,7 @@ especially here in Johannesburg, where I design platforms that connect people an
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Coding animation"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Coding animation"/>
 </p>
 
 <div align="center">
