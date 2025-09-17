@@ -15,7 +15,6 @@ especially here in Johannesburg, where I design platforms that connect people an
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Coding animation"/>
 </p>
-
 <div align="center">
 
 | 🧾 Languages | 📚 Frameworks / Libraries | 🗄️ Databases | 🧰 Tools |
@@ -24,7 +23,7 @@ especially here in Johannesburg, where I design platforms that connect people an
 | ![CSS](https://img.shields.io/badge/CSS-%231572b6?style=flat&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat&logo=postgresql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-%23007acc?style=flat&logo=visual-studio-code&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=flat&logo=javascript&logoColor=black) | ![Express.js](https://img.shields.io/badge/Express-%23000000?style=flat&logo=express&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23ffca28?style=flat&logo=firebase&logoColor=black) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-%234b8bbe?style=flat&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/Django-%23092e20?style=flat&logo=django&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-%23e10098?style=flat&logo=graphql&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-%23000000?style=flat&logo=netlify&logoColor=white) |
-|  | ![HTMX](https://img.shields.io/badge/HTMX-%236a1b9a?style=flat&logo=html5&logoColor=white) |  |  |
+|  | ![HTMX](https://img.shields.io/badge/HTMX-%236a1b9a?style=flat&logo=html5&logoColor=white) |  | ![Render](https://img.shields.io/badge/Render-%23000000?style=flat&logo=render&logoColor=white) |
 
 </div>
 
