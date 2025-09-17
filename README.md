@@ -1,18 +1,19 @@
 ![My Digital Playground](https://img.shields.io/badge/Built%20with%20Joy-%236a1b9a?style=for-the-badge&logo=github&logoColor=white)
 
-#  Welcome to my GitHub — I'm Cadee Rousseau
+# Welcome to my GitHub — I'm Cadee Rousseau
 
-I build with purpose, clean & scalable code designed to make people smile.  
+I build with purpose — clean & scalable code designed to make people smile.  
 I’m more into creative problem-solving than buzzwords, and I build with one goal in mind:  
 **Make something useful, and make it feel good to use.**  
-I care deeply about community, clarity, and making tech more approachable  
+I care deeply about community, clarity, and making tech more approachable —  
 especially here in Johannesburg, where I design platforms that connect people and ideas.
+
 ---
 
-## 🛠️  Skills & Tools
-  
+## 🛠️ Skills & Tools
+
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Coding animation"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Coding animation"/>
 </p>
 
 <div align="center">
@@ -27,7 +28,9 @@ especially here in Johannesburg, where I design platforms that connect people an
 
 </div>
 
-## 📫  Contact Me
+---
+
+## 📫 Contact Me
 
 - 📧 Email: **cadee.dev@outlook.com**  
 - 🌐 Portfolio: [cadeerousseau.dev](https://portfolio-website-20.netlify.app/#home)  
