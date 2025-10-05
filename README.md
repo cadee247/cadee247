@@ -8,7 +8,7 @@ I’m more into creative problem-solving than buzzwords, and I build with one go
 I care deeply about community, clarity, and making tech more approachable  
 especially here in Johannesburg, where I design platforms that connect people and ideas.     
                  
----                  
+---                   
                              
 ## 🛠️ Skills & Tools  
 
