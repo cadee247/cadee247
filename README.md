@@ -1,5 +1,5 @@
 ![My Digital Playground](https://img.shields.io/badge/Built%20with%20Joy-%236a1b9a?style=for-the-badge&logo=github&logoColor=white)
-
+  
 # Welcome to my GitHub — I'm Cadee Rousseau                   
 
 I build with purpose, clean & scalable code designed to make people smile.  
