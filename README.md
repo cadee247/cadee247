@@ -9,7 +9,7 @@ I care deeply about community, clarity, and making tech more approachable
 especially here in Johannesburg, where I design platforms that connect people and ideas.
 
 ---
-
+                         
 ## 🛠️ Skills & Tools
 
 <p align="center">
