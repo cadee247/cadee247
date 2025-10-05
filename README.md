@@ -3,7 +3,7 @@
 # Welcome to my GitHub — I'm Cadee Rousseau                   
 
 I build with purpose, clean & scalable code designed to make people smile.   
-I’m more into creative problem-solving than buzzwords, and I build with one goal in mind: 
+I’m more into creative problem-solving than buzzwords, and I build with one goal in mind:  
 **Make something useful, and make it feel good to use.**       
 I care deeply about community, clarity, and making tech more approachable     
 especially here in Johannesburg, where I design platforms that connect people and ideas.     
