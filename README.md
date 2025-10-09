@@ -31,20 +31,40 @@ especially here in Johannesburg, where I design platforms that connect people an
 
 ## 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:cadee.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-cadee.dev@outlook.com-%236a1b9a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://portfolio-website-20.netlify.app/#home" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-cadeerousseau.dev-%23000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cadee-rousseau-bb59bb382" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/cadee247" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-cadee247-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td><strong>📧 Email</strong></td>
+    <td>
+      <a href="mailto:cadee.dev@outlook.com">
+        <img src="https://img.shields.io/badge/cadee.dev@outlook.com-%236a1b9a?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Portfolio</strong></td>
+    <td>
+      <a href="https://portfolio-website-20.netlify.app/#home" target="_blank">
+        <img src="https://img.shields.io/badge/cadeerousseau.dev-%23000000?style=flat&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>💼 LinkedIn</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/cadee-rousseau-bb59bb382" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🐙 GitHub</strong></td>
+    <td>
+      <a href="https://github.com/cadee247" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-cadee247-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 💜 *Code with clarity. Design with joy. Build with heart.*
 
